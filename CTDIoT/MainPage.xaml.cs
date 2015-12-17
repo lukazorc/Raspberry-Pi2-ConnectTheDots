@@ -100,10 +100,10 @@ namespace CTDIoT
                 new ConnectTheDotsSensor(id.ToString(), "Temperature", unit),
             };
 
-            ctdHelper = new ConnectTheDotsHelper(serviceBusNamespace: "actualw10iot-ns"/*, serviceBusNamespace: "actwiotns-ns"*/,
+            ctdHelper = new ConnectTheDotsHelper(serviceBusNamespace: "XXXXX"/*, serviceBusNamespace: "actwiotns-ns"*/,
                 eventHubName: "ehdevices",
                 keyName: "RasPi",
-                key: "hXK2vpF4WmcrCP/f+zbXUykE0M5c7R2w4UCWU+HkZbQ=",
+                key: "XXXXX",
                 displayName: imeNaprave,
                 organization: "Actual",
                 location: lokacija,
