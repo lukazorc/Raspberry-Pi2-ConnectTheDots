@@ -1,0 +1,894 @@
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\ApplicationInsights.config
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\App.xbf
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\MainPage.xbf
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\CTDIoT.xr.xml
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\CTDIoT.exe
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\CTDIoT.pdb
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\resources.pri
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\AppxManifest.xml
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\ApplicationInsights.config
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\AppxManifest.xml
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Assets\LockScreenLogo.scale-200.png
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Assets\SplashScreen.scale-200.png
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Assets\Square150x150Logo.scale-200.png
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Assets\Square44x44Logo.scale-200.png
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Assets\StoreLogo.png
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\ClrCompression.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\CTDIoT.exe
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\CTDIoT.pdb
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\CTDIoT.xr.xml
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\entrypoint\CTDIoT.exe
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.ApplicationInsights.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.CSharp.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.VisualBasic.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.Win32.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.Xaml.Interactions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.Xaml.Interactivity.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Properties\Default.rd.xml
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\resources.pri
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.AppContext.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Collections.Concurrent.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Collections.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Collections.Immutable.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Collections.NonGeneric.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Collections.Specialized.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ComponentModel.Annotations.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ComponentModel.DataAnnotations.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ComponentModel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Core.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Data.Common.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Diagnostics.Contracts.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Diagnostics.Debug.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Diagnostics.StackTrace.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Diagnostics.Tools.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Diagnostics.Tracing.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Dynamic.Runtime.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Globalization.Calendars.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Globalization.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Globalization.Extensions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.IO.Compression.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.IO.Compression.ZipFile.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.IO.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.IO.FileSystem.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.IO.FileSystem.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.IO.IsolatedStorage.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Linq.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Linq.Expressions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Linq.Parallel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Linq.Queryable.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Net.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Net.Http.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Net.Http.Rtc.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Net.NetworkInformation.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Net.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Net.Requests.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Net.Sockets.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Net.WebHeaderCollection.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Numerics.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Numerics.Vectors.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ObjectModel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Private.DataContractSerialization.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Private.Networking.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Private.ServiceModel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Private.Uri.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.Context.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.DispatchProxy.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.Emit.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.Emit.Lightweight.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.Extensions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.Metadata.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.TypeExtensions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Resources.ResourceManager.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.Extensions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.Handles.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.InteropServices.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.Numerics.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.Serialization.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.Serialization.Json.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.Serialization.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.Serialization.Xml.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.WindowsRuntime.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Security.Claims.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Security.Principal.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ServiceModel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ServiceModel.Duplex.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ServiceModel.Http.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ServiceModel.NetTcp.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ServiceModel.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ServiceModel.Security.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ServiceModel.Web.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Text.Encoding.CodePages.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Text.Encoding.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Text.Encoding.Extensions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Text.RegularExpressions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Threading.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Threading.Overlapped.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Threading.Tasks.Dataflow.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Threading.Tasks.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Threading.Tasks.Parallel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Threading.Timer.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Windows.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Xml.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Xml.Linq.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Xml.ReaderWriter.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Xml.Serialization.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Xml.XDocument.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Xml.XmlDocument.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Xml.XmlSerializer.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\WinMetadata\Windows.winmd
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\CTDIoT.build.appxrecipe
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.Xaml.Interactions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.Xaml.Interactivity.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.ApplicationInsights.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.CSharp.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Core.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Net.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Numerics.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.Serialization.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.ServiceModel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.ServiceModel.Web.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Windows.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Xml.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Xml.Linq.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Xml.Serialization.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.VisualBasic.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.AppContext.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Collections.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Collections.Concurrent.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Collections.Immutable.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Collections.NonGeneric.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Collections.Specialized.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.ComponentModel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Data.Common.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Diagnostics.Debug.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Diagnostics.Tools.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Dynamic.Runtime.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Globalization.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Globalization.Calendars.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Globalization.Extensions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.IO.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.IO.Compression.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\ClrCompression.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.IO.FileSystem.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Linq.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Linq.Expressions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Linq.Parallel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Linq.Queryable.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Net.Http.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Net.Http.Rtc.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Net.NetworkInformation.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Net.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Net.Requests.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Net.Sockets.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Numerics.Vectors.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.ObjectModel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Private.Networking.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Private.ServiceModel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Private.Uri.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.Context.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.Emit.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.Extensions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.Metadata.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Resources.ResourceManager.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.Extensions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.Handles.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.InteropServices.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.Numerics.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Security.Claims.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Security.Principal.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.ServiceModel.Http.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.ServiceModel.Security.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Text.Encoding.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Text.RegularExpressions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Threading.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Threading.Overlapped.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Threading.Tasks.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Threading.Timer.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Xml.XDocument.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Xml.XmlDocument.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\CTDIoT.csprojResolveAssemblyReference.cache
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\App.g.i.cs
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\App.g.cs
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\MainPage.g.i.cs
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\MainPage.g.cs
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\XamlTypeInfo.g.cs
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\App.xaml
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\MainPage.xaml
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\App.xbf
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\MainPage.xbf
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\XamlSaveStateFile.xml
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\CTDIoT.exe
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\CTDIoT.pdb
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\ResourceHandlingTask.state
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.IO.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\priconfig.xml
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\priconfig.xml.intermediate
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\layout.resfiles
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\layout.resfiles.intermediate
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\resources.resfiles
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\resources.resfiles.intermediate
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\pri.resfiles
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\pri.resfiles.intermediate
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\qualifiers.txt
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\qualifiers.txt.intermediate
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\ProjectArchitectures.txt
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\CTDIoT.exe
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\CTDIoT.pdb
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.Xaml.Interactions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.Xaml.Interactivity.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.ApplicationInsights.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.CSharp.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ComponentModel.DataAnnotations.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Core.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Net.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Numerics.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.Serialization.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ServiceModel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ServiceModel.Web.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Windows.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Xml.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Xml.Linq.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Xml.Serialization.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.VisualBasic.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.Win32.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.AppContext.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Collections.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Collections.Concurrent.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Collections.Immutable.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Collections.NonGeneric.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Collections.Specialized.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ComponentModel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ComponentModel.Annotations.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Data.Common.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Diagnostics.Contracts.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Diagnostics.Debug.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Diagnostics.StackTrace.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Diagnostics.Tools.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Diagnostics.Tracing.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Dynamic.Runtime.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Globalization.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Globalization.Calendars.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Globalization.Extensions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.IO.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.IO.Compression.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\ClrCompression.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.IO.Compression.ZipFile.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.IO.FileSystem.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.IO.FileSystem.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.IO.IsolatedStorage.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Linq.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Linq.Expressions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Linq.Parallel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Linq.Queryable.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Net.Http.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Net.Http.Rtc.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Net.NetworkInformation.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Net.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Net.Requests.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Net.Sockets.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Net.WebHeaderCollection.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Numerics.Vectors.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ObjectModel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Private.DataContractSerialization.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Private.Networking.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Private.ServiceModel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Private.Uri.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.Context.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.DispatchProxy.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.Emit.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.Emit.Lightweight.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.Extensions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.Metadata.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.TypeExtensions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Resources.ResourceManager.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.Extensions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.Handles.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.InteropServices.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.Numerics.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.Serialization.Json.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.Serialization.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.Serialization.Xml.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.WindowsRuntime.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Security.Claims.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Security.Principal.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ServiceModel.Duplex.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ServiceModel.Http.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ServiceModel.NetTcp.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ServiceModel.Primitives.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ServiceModel.Security.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Text.Encoding.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Text.Encoding.CodePages.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Text.Encoding.Extensions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Text.RegularExpressions.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Threading.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Threading.Overlapped.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Threading.Tasks.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Threading.Tasks.Dataflow.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Threading.Tasks.Parallel.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Threading.Timer.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Xml.ReaderWriter.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Xml.XDocument.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Xml.XmlDocument.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Xml.XmlSerializer.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\ApplicationInsights.config
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Properties\Default.rd.xml
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Assets\LockScreenLogo.scale-200.png
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Assets\SplashScreen.scale-200.png
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Assets\Square150x150Logo.scale-200.png
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Assets\Square44x44Logo.scale-200.png
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Assets\StoreLogo.png
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\CTDIoT.xr.xml
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\WinMetadata\Windows.winmd
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\resources.pri
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Microsoft.Diagnostics.Tracing.EventSource\en-US\Microsoft.Diagnostics.Tracing.Messages.resw
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\CTDIoT.csproj.GenerateResource.Cache
+c:\users\lukaz\documents\visual studio 2015\Projects\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\ApplicationInsights.config
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\App.xbf
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\MainPage.xbf
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\CTDIoT.xr.xml
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\CTDIoT.exe
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\CTDIoT.pdb
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\resources.pri
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\AppxManifest.xml
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\ApplicationInsights.config
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\AppxManifest.xml
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Assets\LockScreenLogo.scale-200.png
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Assets\SplashScreen.scale-200.png
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Assets\Square150x150Logo.scale-200.png
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Assets\Square44x44Logo.scale-200.png
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Assets\StoreLogo.png
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\ClrCompression.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\CTDIoT.exe
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\CTDIoT.pdb
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\CTDIoT.xr.xml
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\entrypoint\CTDIoT.exe
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.ApplicationInsights.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.CSharp.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.VisualBasic.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.Win32.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.Xaml.Interactions.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Microsoft.Xaml.Interactivity.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\Properties\Default.rd.xml
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\resources.pri
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.AppContext.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Collections.Concurrent.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Collections.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Collections.Immutable.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Collections.NonGeneric.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Collections.Specialized.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ComponentModel.Annotations.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ComponentModel.DataAnnotations.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ComponentModel.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Core.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Data.Common.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Diagnostics.Contracts.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Diagnostics.Debug.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Diagnostics.StackTrace.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Diagnostics.Tools.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Diagnostics.Tracing.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Dynamic.Runtime.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Globalization.Calendars.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Globalization.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Globalization.Extensions.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.IO.Compression.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.IO.Compression.ZipFile.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.IO.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.IO.FileSystem.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.IO.FileSystem.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.IO.IsolatedStorage.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Linq.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Linq.Expressions.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Linq.Parallel.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Linq.Queryable.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Net.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Net.Http.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Net.Http.Rtc.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Net.NetworkInformation.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Net.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Net.Requests.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Net.Sockets.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Net.WebHeaderCollection.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Numerics.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Numerics.Vectors.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ObjectModel.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Private.DataContractSerialization.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Private.Networking.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Private.ServiceModel.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Private.Uri.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.Context.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.DispatchProxy.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.Emit.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.Emit.Lightweight.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.Extensions.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.Metadata.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Reflection.TypeExtensions.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Resources.ResourceManager.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.Extensions.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.Handles.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.InteropServices.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.Numerics.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.Serialization.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.Serialization.Json.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.Serialization.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.Serialization.Xml.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.WindowsRuntime.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Security.Claims.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Security.Principal.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ServiceModel.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ServiceModel.Duplex.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ServiceModel.Http.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ServiceModel.NetTcp.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ServiceModel.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ServiceModel.Security.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.ServiceModel.Web.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Text.Encoding.CodePages.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Text.Encoding.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Text.Encoding.Extensions.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Text.RegularExpressions.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Threading.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Threading.Overlapped.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Threading.Tasks.Dataflow.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Threading.Tasks.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Threading.Tasks.Parallel.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Threading.Timer.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Windows.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Xml.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Xml.Linq.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Xml.ReaderWriter.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Xml.Serialization.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Xml.XDocument.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Xml.XmlDocument.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\System.Xml.XmlSerializer.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Core\WinMetadata\Windows.winmd
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\CTDIoT.build.appxrecipe
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.Xaml.Interactions.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.Xaml.Interactivity.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.ApplicationInsights.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.CSharp.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Core.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Net.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Numerics.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.Serialization.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.ServiceModel.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.ServiceModel.Web.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Windows.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Xml.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Xml.Linq.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Xml.Serialization.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.VisualBasic.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.AppContext.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Collections.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Collections.Concurrent.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Collections.Immutable.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Collections.NonGeneric.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Collections.Specialized.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.ComponentModel.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Data.Common.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Diagnostics.Debug.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Diagnostics.Tools.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Dynamic.Runtime.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Globalization.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Globalization.Calendars.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Globalization.Extensions.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.IO.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.IO.Compression.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\ClrCompression.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.IO.FileSystem.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Linq.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Linq.Expressions.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Linq.Parallel.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Linq.Queryable.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Net.Http.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Net.Http.Rtc.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Net.NetworkInformation.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Net.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Net.Requests.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Net.Sockets.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Numerics.Vectors.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.ObjectModel.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Private.Networking.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Private.ServiceModel.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Private.Uri.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.Context.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.Emit.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.Extensions.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.Metadata.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Resources.ResourceManager.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.Extensions.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.Handles.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.InteropServices.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.Numerics.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Security.Claims.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Security.Principal.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.ServiceModel.Http.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.ServiceModel.Security.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Text.Encoding.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Text.RegularExpressions.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Threading.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Threading.Overlapped.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Threading.Tasks.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Threading.Timer.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Xml.XDocument.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Xml.XmlDocument.dll
+E:\Projekti\CTDIoT\CTDIoT\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\CTDIoT.csprojResolveAssemblyReference.cache
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\App.g.i.cs
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\App.g.cs
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\MainPage.g.i.cs
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\MainPage.g.cs
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\XamlTypeInfo.g.cs
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\App.xaml
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\MainPage.xaml
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\App.xbf
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\MainPage.xbf
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\XamlSaveStateFile.xml
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\CTDIoT.exe
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\CTDIoT.pdb
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\ResourceHandlingTask.state
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.IO.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Microsoft.Diagnostics.Tracing.EventSource\en-US\Microsoft.Diagnostics.Tracing.Messages.resw
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\CTDIoT.csproj.GenerateResource.Cache
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\priconfig.xml
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\priconfig.xml.intermediate
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\layout.resfiles
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\layout.resfiles.intermediate
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\resources.resfiles
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\resources.resfiles.intermediate
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\pri.resfiles
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\pri.resfiles.intermediate
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\qualifiers.txt
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\qualifiers.txt.intermediate
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\ProjectArchitectures.txt
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\ApplicationInsights.config
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Properties\Default.rd.xml
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Assets\LockScreenLogo.scale-200.png
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Assets\SplashScreen.scale-200.png
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Assets\Square150x150Logo.scale-200.png
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Assets\Square44x44Logo.scale-200.png
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Assets\StoreLogo.png
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Assets\Wide310x150Logo.scale-200.png
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\CTDIoT.xr.xml
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\CTDIoT.exe
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\CTDIoT.pdb
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.Xaml.Interactions.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.Xaml.Interactivity.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.ApplicationInsights.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.CSharp.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ComponentModel.DataAnnotations.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Core.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Net.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Numerics.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.Serialization.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ServiceModel.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ServiceModel.Web.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Windows.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Xml.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Xml.Linq.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Xml.Serialization.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.VisualBasic.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\Microsoft.Win32.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.AppContext.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Collections.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Collections.Concurrent.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Collections.Immutable.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Collections.NonGeneric.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Collections.Specialized.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ComponentModel.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ComponentModel.Annotations.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Data.Common.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Diagnostics.Contracts.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Diagnostics.Debug.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Diagnostics.StackTrace.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Diagnostics.Tools.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Diagnostics.Tracing.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Dynamic.Runtime.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Globalization.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Globalization.Calendars.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Globalization.Extensions.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.IO.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.IO.Compression.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\ClrCompression.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.IO.Compression.ZipFile.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.IO.FileSystem.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.IO.FileSystem.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.IO.IsolatedStorage.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Linq.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Linq.Expressions.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Linq.Parallel.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Linq.Queryable.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Net.Http.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Net.Http.Rtc.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Net.NetworkInformation.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Net.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Net.Requests.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Net.Sockets.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Net.WebHeaderCollection.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Numerics.Vectors.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ObjectModel.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Private.DataContractSerialization.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Private.Networking.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Private.ServiceModel.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Private.Uri.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.Context.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.DispatchProxy.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.Emit.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.Emit.Lightweight.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.Extensions.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.Metadata.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Reflection.TypeExtensions.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Resources.ResourceManager.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.Extensions.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.Handles.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.InteropServices.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.Numerics.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.Serialization.Json.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.Serialization.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.Serialization.Xml.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.WindowsRuntime.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Security.Claims.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Security.Principal.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ServiceModel.Duplex.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ServiceModel.Http.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ServiceModel.NetTcp.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ServiceModel.Primitives.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.ServiceModel.Security.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Text.Encoding.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Text.Encoding.CodePages.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Text.Encoding.Extensions.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Text.RegularExpressions.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Threading.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Threading.Overlapped.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Threading.Tasks.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Threading.Tasks.Dataflow.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Threading.Tasks.Parallel.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Threading.Timer.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Xml.ReaderWriter.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Xml.XDocument.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Xml.XmlDocument.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\System.Xml.XmlSerializer.dll
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\WinMetadata\Windows.winmd
+E:\Projekti\CTDIoT\CTDIoT\obj\ARM\Debug\Core\resources.pri

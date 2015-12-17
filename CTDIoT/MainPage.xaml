@@ -1,0 +1,69 @@
+﻿<Page
+    x:Class="CTDIoT.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CTDIoT"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+
+    <Grid Background="#59abe3">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="8*" />
+        </Grid.RowDefinitions>
+
+        
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+
+
+                         
+        <Border Background="#2c3e50" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="1"></Border>
+        <Border Background="#2c3e50" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="1"></Border>
+       
+            
+        <TextBlock  x:Name="textBlock" Foreground="White" HorizontalAlignment="Center" Margin="10,68,10,67" TextWrapping="Wrap" Text="Senzor Temperature" VerticalAlignment="Center" Height="59" Width="311" FontSize="35.0" />
+
+        <TextBlock Grid.Row="1" x:Name="textBlock1" HorizontalAlignment="Left" Margin="30,30,0,0" TextWrapping="Wrap" Text="Izberi nastavitve" VerticalAlignment="Top"  FontSize="25.667" Height="46" Width="270"/>
+        
+        <TextBlock x:Name="textBlock2" Foreground="White" HorizontalAlignment="Left" Margin="30,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="39"  Width="237" RenderTransformOrigin="0.489,-3" Grid.Row="1" Text="Temperaturna lestvica" FontSize="20.667"/>
+        <RadioButton x:Name="radioButton" Foreground="White" IsChecked="True" HorizontalAlignment="Left" Margin="30,153,0,0" VerticalAlignment="Top" Checked="radioButton_Checked" Content="Celsius" Height="41"  Width="152" RenderTransformOrigin="-2.164,1.95" Grid.Row="1" FontSize="20.667" Grid.ColumnSpan="2"/>
+        <RadioButton Grid.Row="1" Foreground="White"  x:Name="radioButton1" Content="Fahrenheit" HorizontalAlignment="Left" Margin="194,153,0,0" VerticalAlignment="Top" Checked="radioButton1_Checked" Height="41"  Width="148" FontSize="20.667" Grid.ColumnSpan="2"/>
+        
+        <TextBlock Grid.Row="1" x:Name="textBlock3" Foreground="White"  HorizontalAlignment="Left" Margin="30,230,0,0" TextWrapping="Wrap" Text="Ime naprave" VerticalAlignment="Top" Height="53"  Width="118" FontSize="20.667"/>
+        <TextBox Grid.Row="1" x:Name="textBox" Foreground="White" HorizontalAlignment="Left" Height="23" Margin="194,230,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textBox_TextChanged" />
+        
+        <TextBlock Grid.Row="1" x:Name="textBlock4" Foreground="White" HorizontalAlignment="Left" Margin="30,300,0,0" TextWrapping="Wrap" Text="Lokacija" VerticalAlignment="Top" Height="30"  Width="102" FontSize="20.667"/>
+        <TextBox Grid.Row="1" x:Name="textBox1" Foreground="White" HorizontalAlignment="Left" Height="23" Margin="194,300,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textBox1_TextChanged" />
+        
+        <TextBlock Grid.Row="1" x:Name="textBlock5" Foreground="White" HorizontalAlignment="Left" Margin="30,370,0,0" TextWrapping="Wrap" Text="Zgornja meja alarma (&#x00b0;C)" VerticalAlignment="Top" Height="53"  Width="127" FontSize="16.667"/>
+        <TextBox Grid.Row="1" x:Name="textBox2" Foreground="White" HorizontalAlignment="Left" Height="23" Margin="194,370,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textBox2_TextChanged" />
+        
+        <TextBlock Grid.Row="1" x:Name="textBlock6" Foreground="White" HorizontalAlignment="Left" Margin="30,440,0,0" TextWrapping="Wrap" Text="Zpodnja meja alarma (&#x00b0;C)" VerticalAlignment="Top" Height="60"  Width="118" FontSize="16.667"/>
+        <TextBox Grid.Row="1" x:Name="textBox3" Foreground="White" HorizontalAlignment="Left" Height="23" Margin="194,440,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textBox3_TextChanged" />
+        
+        <TextBlock Grid.Row="1" x:Name="textBlock7" Foreground="White" HorizontalAlignment="Left" Margin="30,510,0,0" TextWrapping="Wrap" Text="Hitrost osveževanja (min 5s)" VerticalAlignment="Top" Height="61"  Width="152" FontSize="16.667"/>
+        <TextBox Grid.Row="1" x:Name="textBox4" Foreground="White" HorizontalAlignment="Left" Height="23" Margin="194,510,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textBox4_TextChanged" />
+        
+        <Button Grid.Row="1" x:Name="button" Foreground="White" Content="Zacni!" HorizontalAlignment="Left" Margin="30,580,0,0" VerticalAlignment="Top" Width="102" Click="button_Click" Height="51" FontSize="20.667"/>
+
+        <TextBlock x:Name="textBlock9" HorizontalAlignment="Left" Margin="194,631,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="109" Width="160" Foreground="#e74c3c"/>
+
+        <StackPanel Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Top" Height="468" Margin="0,120,0,0">
+            <TextBlock Grid.Row="1" Foreground="White" Grid.Column="1" x:Name="GpioStatus" Text="Temperatura:"  HorizontalAlignment="Center" TextAlignment="Center" FontSize="30.667" Margin="0,20,0,0"/>
+            <TextBlock Grid.Row="1" Foreground="White" Grid.Column="1" x:Name="textPlaceHolder" Text=" " Margin="0,50,0,0" HorizontalAlignment="Center" TextAlignment="Center" FontSize="30.667" />
+            <TextBlock Grid.Row="1" Foreground="White" Grid.Column="1" x:Name="PT" Text="Povprečna temperatura:"  HorizontalAlignment="Center" TextAlignment="Center" FontSize="30.667" Margin="0,80,0,0"/>
+            <TextBlock Grid.Row="1" Foreground="White" Grid.Column="1" x:Name="textPlaceHolder2" Text=" " Margin="0,90,0,0" HorizontalAlignment="Center" TextAlignment="Center" FontSize="30.667" />
+        </StackPanel>
+        <Border BorderBrush="Black" BorderThickness="1" Grid.Column="1" HorizontalAlignment="Center" Height="500"  Grid.Row="1" VerticalAlignment="Top" Width="500" Margin="0,100,0,0"/>
+        <Button Grid.Row="1" Foreground="White"  Grid.Column="1" x:Name="button2" Content="Stop" HorizontalAlignment="Right" Margin="0,30,30,0" VerticalAlignment="Top" Width="94" Click="Button_Click2" Height="46"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="700" Margin="10,0,0,0" Grid.Row="1" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5" Grid.Column="1"/>
+        <TextBlock x:Name="textBlock8" Grid.Column="1" HorizontalAlignment="Left" Margin="171,45,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Ustavljeno" VerticalAlignment="Top" Height="35" Width="134" FontSize="25.667" Foreground="#e74c3c"/>
+        <TextBlock x:Name="textBlock10" Grid.Column="1" HorizontalAlignment="Left" Margin="171,631,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Text="" FontSize="25.667" Height="45" Width="475" Foreground="#e74c3c"/>
+    </Grid>
+</Page>
